@@ -1,4 +1,4 @@
-## � CMD-Quiz
+## 💻 CMD-Quiz
 
 Welcome to the **CMD-Quiz** repository!
 
