@@ -4,7 +4,7 @@ Welcome to the **CMD-Quiz** repository!
 
 ## 🚀 Showcase
 
-![Show](https://github.com/DeadGolden0/First-Quizz-Project/blob/main/assets/capture.png)
+![Show](https://github.com/DeadGolden0/CMD-Quiz/blob/main/assets/capture.png)
 
 ## 🤝 Contributing
 
